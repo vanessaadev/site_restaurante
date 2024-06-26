@@ -3,7 +3,7 @@
 ### Responsivo
 ### Bootstrap
 
-### Tecnologias
+### Tecnologias:
  - HTML5
  - CSS3
  - Bootstrap
