@@ -1,0 +1,25 @@
+
+
+nav .row {
+    height: 0;
+}
+
+header {
+    height: 80vh;
+    background-image: url('../img/banner_desktop.png');
+    background-size: cover;
+    font-weight: 700;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.btn-link {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ffffff;
+}
