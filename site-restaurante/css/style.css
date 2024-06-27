@@ -23,3 +23,13 @@ header {
     font-weight: 700;
     color: #ffffff;
 }
+
+.modal-footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.modal-footer li{
+    list-style-type: none;
+}
